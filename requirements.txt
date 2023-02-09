@@ -1,3 +1,8 @@
 sklearn
 numpy
 pandas
+matplotlib
+seaborn
+os
+sys
+numba
