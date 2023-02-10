@@ -4,3 +4,4 @@ pandas
 matplotlib
 seaborn
 numba
+PyQt5
